@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://ibb.co/4wyvT9j"><img src="https://www.linkpicture.com/q/carlox_1.jpg""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="carlo_v2" src="https://img.shields.io/badge/-carlo-blue?&style=for-the-badge"></a>
+<a href="#"><img title="carlo_v2" src="https://www.linkpicture.com/q/carlox_1.jpg?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
@@ -38,7 +38,7 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
     
 <p align="center">
 
-<a href="https://instagram.com/__ajuz___001?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/___carloz___001?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
 </p>
 
