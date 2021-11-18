@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/Y2mXdR5/carlox.jpg""width="170" height="170"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="https://www.linkpicture.com/q/carlox_1.jpg""width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="carlo_v2" src="https://img.shields.io/badge/-carlo-blue?&style=for-the-badge"></a>
 </p>
