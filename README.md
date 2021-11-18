@@ -10,7 +10,7 @@
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/Carlox001"><img title="Carlox" src="https://img.shields.io/badge/author-Carlox001?color=black&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Carlox001"><img title="Carlox" src="https://www.linkpicture.com/q/carlox.jpg/badge/author-Carlox001?color=black&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/Carlox001">Carlox</a> to make it 
 
   <p align="center">
   <a href="https://github.com/Carlox001/Carlox_v2 ">
-    <img src="https://img.shields.io/github/repo-size/Carlox001/Carlox_v2?color=red&label=Repo%20total%20size&style=flat-square">
+    <img src="https://www.linkpicture.com/q/carlox.jpg/github/repo-size/Carlox001/Carlox_v2?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
 <a href="https://github.com/Carlox001/followers"><img title="Followers" src="https://img.shields.io/github/followers/Carlox001?color=grey&style=plastic"></a>
 <a href="https://github.com/Carlox001/Carlox_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Carlox001/Carlox?color=grey&style=plastic"></a>
@@ -108,7 +108,7 @@ $ node bot.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-<a href="https://chat.whatsapp.com/Ji1Sz4fu2GW0pwfjXWvG7Z><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/LAyjhgqKdGkDtDKhIXPW55><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   <div align="center">
 
     
